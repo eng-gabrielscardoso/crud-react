@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gabriel Santos Cardoso",
+      "email": "gabriel@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Fabiana Pantoja Barreto",
+      "email": "fabiana@gmail.com"
+    }
+  ]
+}
